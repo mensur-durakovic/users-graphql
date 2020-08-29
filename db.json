@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "message": "test",
+      "author": "gCnrmNmPLNfkSkK9-ghF5",
+      "createdAt": 1598555605235,
+      "id": "udVtHXg1i9ky3mHTN6zfQ"
+    },
+    {
+      "message": "test2",
+      "author": "gCnrmNmPLNfkSkK9-ghF5",
+      "createdAt": 1598555618456,
+      "id": "9mD6JAkeLrYTqZo1ZnxbZ"
+    },
+    {
+      "message": "test3",
+      "author": "gCnrmNmPLNfkSkK9-ghF5",
+      "createdAt": 1598555657775,
+      "id": "QhkL9R4eItdsPZ6ES64YV"
+    },
+    {
+      "message": "test4",
+      "author": "gCnrmNmPLNfkSkK9-ghF5",
+      "createdAt": 1598556062793,
+      "id": "urNUtdAFpSmjk0WobBCSL"
+    }
+  ],
+  "users": [
+    {
+      "email": "mensurdurakovic@gmail.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1598553419609,
+      "id": "gCnrmNmPLNfkSkK9-ghF5"
+    },
+    {
+      "email": "m@gmail.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1598716287683,
+      "id": "47dE8trH1t_y3BJRW0qEr"
+    }
+  ],
+  "settings": []
+}
